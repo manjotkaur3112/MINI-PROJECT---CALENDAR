@@ -1,2 +1,2 @@
 # MINI-PROJECT---CALENDAR
-I made a calendar by using C language. In this we can watch date and day.
+The goal of this project is to create a program that displays a month-by-month calendar for a specified year. We can create an application to check date, day, etc. using an application that can be created with C using basic knowledge like arithmetic operations, strings, etc. Breakdown of Tasks: Input Handling : Takes the year input from the user. Leap Year Check : Determines if the input year is a leap year and prints the result. Calendar Printing : Calls the print Calendar function to display the calendar.
